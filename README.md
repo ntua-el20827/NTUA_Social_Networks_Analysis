@@ -19,3 +19,6 @@ NTUA ECE SNA 2024
 
 ### Lab3
 - Link Prediction
+
+## Evaluation
+Received **100/100** on all assignments.
